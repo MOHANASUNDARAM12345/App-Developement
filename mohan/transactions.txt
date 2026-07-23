@@ -1,0 +1,10 @@
+ACCOUNT CREATED
+Account : 14
+Holder : vl
+Initial Deposit : 100.0
+-----------------
+ACCOUNT CREATED
+Account : 15
+Holder : pl
+Initial Deposit : 100.0
+-----------------
